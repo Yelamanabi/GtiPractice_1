@@ -8,5 +8,7 @@ public class Movie {
         //slkncvldfnl
         //skmvdkfvndkf vd
 
+        //added some awosome functuam
+
     }
 }
