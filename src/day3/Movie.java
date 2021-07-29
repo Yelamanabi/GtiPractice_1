@@ -8,7 +8,8 @@ public class Movie {
         //slkncvldfnl
         //skmvdkfvndkf vd
 
-        //this is my awesome stuff from the master
+        //added some awosome functuam
+        //done with tc 100
 
     }
 }
